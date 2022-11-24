@@ -1,0 +1,29 @@
+﻿---
+ID: "86043989-d237-4ace-81c2-985d9955650b"
+Parent: "26b75c0b-e8a6-4344-b594-c8b5fe0ff37e"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/CustomTokensForm
+SharedFields:
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: "{B595043C-B009-408D-A89C-E4CC2FCE6555}"
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /sitecore/shell/client/Applications/FormsBuilder/Layouts/Actions/CustomTokensForm/CustomTokensForm.cshtml
+- ID: "7d24e54f-5c16-4314-90c9-6051aa1a7da1"
+  Hint: Parameters Template
+  Value: "{B595043C-B009-408D-A89C-E4CC2FCE6555}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: PageSettings
+- ID: "ddab263e-b42e-419a-aa6f-081b7393ca38"
+  Hint: Model
+  Value: Sitecore.EmailCampaign.Cm.UI.sitecore.shell.client.Applications.FormsBuilder.Layouts.Actions.CustomTokensForm.CustomTokensFormModel,Sitecore.EmailCampaign.Cm.UI
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e501231a-f270-4545-82ab-7bb9fd98af88"

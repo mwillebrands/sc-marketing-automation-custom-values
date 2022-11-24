@@ -1,0 +1,20 @@
+﻿---
+ID: "5a43a27f-0ddd-4def-b633-4757619a66bd"
+Parent: "86043989-d237-4ace-81c2-985d9955650b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/CustomTokensForm/CustomTokensForm-Parameters"
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{6A9A5956-5354-48B4-A25A-DABABA738424}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{E1B4EB99-47D2-4A89-A70E-FBACFA4EE81C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8dfcc195-368b-4c95-a12b-cd3856a386b1"

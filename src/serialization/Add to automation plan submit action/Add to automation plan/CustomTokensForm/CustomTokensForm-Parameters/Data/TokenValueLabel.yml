@@ -1,0 +1,20 @@
+﻿---
+ID: "657b5e61-c323-4979-bb13-b15459ad6d34"
+Parent: "8dd9e23e-a3dc-4558-ad25-b8212a5c8bf8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/CustomTokensForm/CustomTokensForm-Parameters/Data/TokenValueLabel"
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c54761fe-065e-4105-b862-2bc5ddf99ece"

@@ -1,0 +1,16 @@
+﻿---
+ID: "9486944d-0c79-4e0e-8ab7-5e1e8ae8ada3"
+Parent: "3477e7ff-9b47-4ebd-b712-59197f93b3d4"
+Template: "46efcf7f-6ebb-4059-b9bf-8ef47c4f5e20"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/TokensNotification
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "240acdcd-c405-4e49-a96a-b3caab843920"
+      Hint: Text
+      Value: Form fields must be saved to be available.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e73a5425-4559-4bd4-84bb-29b3191e6f05"

@@ -1,0 +1,16 @@
+﻿---
+ID: "9ad29648-0576-4828-8d13-d62ccf96bac5"
+Parent: "3477e7ff-9b47-4ebd-b712-59197f93b3d4"
+Template: "46efcf7f-6ebb-4059-b9bf-8ef47c4f5e20"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/GenericErrorMessage
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "240acdcd-c405-4e49-a96a-b3caab843920"
+      Hint: Text
+      Value: An error has occurred while retrieving messages data. 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e5c40d2-d8ac-4b29-834b-b9918ebd98fd"

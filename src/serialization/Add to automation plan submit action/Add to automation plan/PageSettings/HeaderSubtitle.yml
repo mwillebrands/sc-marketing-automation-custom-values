@@ -1,0 +1,16 @@
+﻿---
+ID: "0e08a2f3-85f1-4014-9f59-ae45ea055477"
+Parent: "3477e7ff-9b47-4ebd-b712-59197f93b3d4"
+Template: "46efcf7f-6ebb-4059-b9bf-8ef47c4f5e20"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/HeaderSubtitle
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "240acdcd-c405-4e49-a96a-b3caab843920"
+      Hint: Text
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53881361-808e-4007-b469-523615d93b8c"

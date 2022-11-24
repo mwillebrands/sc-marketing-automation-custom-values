@@ -1,0 +1,20 @@
+﻿---
+ID: "baff9077-7f6c-4112-a100-49aa3fb402fd"
+Parent: "3477e7ff-9b47-4ebd-b712-59197f93b3d4"
+Template: "46efcf7f-6ebb-4059-b9bf-8ef47c4f5e20"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/HeaderTitle
+SharedFields:
+- ID: "6d0c0ab0-bc40-4bd0-8acb-16612a180f14"
+  Hint: IsVisible
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "240acdcd-c405-4e49-a96a-b3caab843920"
+      Hint: Text
+      Value: Add contact to automation plan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3cb94c2-b786-419b-b203-7440bb918826"

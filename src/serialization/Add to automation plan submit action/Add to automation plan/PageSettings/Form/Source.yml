@@ -1,0 +1,35 @@
+﻿---
+ID: "ece4d2bc-0460-4355-a71e-395961e63411"
+Parent: "055674c7-8e69-4a1e-bcb8-b9dc80d3c197"
+Template: "dd74148e-e8fc-4774-8cba-bafdb76a4e47"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/Form/Source
+SharedFields:
+- ID: "3e079fc3-6b2d-41c9-9204-374a786fc761"
+  Hint: BindingConfiguration
+  Value: contactIdentifierSource=Value
+- ID: "7108b784-ffd5-47d0-bdf4-3ae353f7a779"
+  Hint: MaxLength
+  Value: 50
+- ID: "a176e7b0-1c0b-4f2e-a494-2df342a75c0e"
+  Hint: IsLabelOnTop
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2d4cece7-1092-404a-8ce9-8936d3a4ba88"
+      Hint: Value
+      Value: Forms
+    - ID: "3885a716-2eed-47ae-9132-32225f0458ff"
+      Hint: FormLabel
+      Value: Specify the identification source
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f82fac0f-1ad0-4783-90f2-45318f732b5d"
+    - ID: "e17d3534-a424-47e3-8f2c-3dbba705565f"
+      Hint: Tooltip
+      Value: Specify the source used to identify the contact.

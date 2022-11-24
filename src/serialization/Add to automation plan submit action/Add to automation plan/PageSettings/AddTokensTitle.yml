@@ -1,0 +1,20 @@
+﻿---
+ID: "18c26595-4fb1-45e6-b03a-9aa2925ccd9f"
+Parent: "3477e7ff-9b47-4ebd-b712-59197f93b3d4"
+Template: "6437cfd5-76ca-48aa-bfbd-8b8d73eb5581"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/AddTokensTitle
+SharedFields:
+- ID: "844fe7aa-2cb9-49a2-ac81-917c04b0713e"
+  Hint: TextType
+  Value: Label
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3564b3d0-3804-4d86-9880-b5e7473ef56c"
+      Hint: Text
+      Value: Map token names to form field
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c02ee442-4b20-4402-8c5b-377e78d68f2d"

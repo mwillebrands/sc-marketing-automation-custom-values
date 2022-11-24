@@ -1,0 +1,26 @@
+﻿---
+ID: "24259cb6-e194-411c-ad08-89b88dd59288"
+Parent: "891e7268-fa3e-4e74-b4b1-c16b206f2165"
+Template: "c2d1d114-3cfe-4558-a9e3-d1a1ec0fcab7"
+Path: /sitecore/system/Settings/Forms/Submit Actions/Add to automation plan
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/elements_branch.png
+- ID: "2c6e7306-2871-473a-9149-71443182b8e8"
+  Hint: Model Type
+  Value: MW.Feature.MarketingAutomation.Forms.SubmitActions.AddToAutomationPlan.AddToAutomationPlanAction, MW.Feature.MarketingAutomation.Forms
+- ID: "b525e9c6-d605-4bda-844f-35d6e8236d10"
+  Hint: Enable Robot Submission
+  Value: 1
+- ID: "d83b5c6b-7230-419f-bd75-4e2d20c87a18"
+  Hint: Editor
+  Value: "{26B75C0B-E8A6-4344-B594-C8B5FE0FF37E}"
+Languages:
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18d69ac9-c42e-412d-b040-26b4d540a284"

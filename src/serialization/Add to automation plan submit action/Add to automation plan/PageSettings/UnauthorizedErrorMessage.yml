@@ -1,0 +1,16 @@
+﻿---
+ID: "a465a956-bfdc-4a67-ad8c-be01c2f02d52"
+Parent: "3477e7ff-9b47-4ebd-b712-59197f93b3d4"
+Template: "46efcf7f-6ebb-4059-b9bf-8ef47c4f5e20"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/UnauthorizedErrorMessage
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "240acdcd-c405-4e49-a96a-b3caab843920"
+      Hint: Text
+      Value: You do not have the sufficient access rights. Please contact your Sitecore administrator.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f80eb96d-b20a-4a2a-ba8b-b15cacec0178"

@@ -1,0 +1,13 @@
+﻿---
+ID: "8dd9e23e-a3dc-4558-ad25-b8212a5c8bf8"
+Parent: "5a43a27f-0ddd-4def-b633-4757619a66bd"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/CustomTokensForm/CustomTokensForm-Parameters/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "030a60be-d2f0-4d91-b5bd-d0fc18a3789e"

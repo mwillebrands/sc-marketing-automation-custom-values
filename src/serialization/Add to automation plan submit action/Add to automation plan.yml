@@ -1,0 +1,108 @@
+﻿---
+ID: "26b75c0b-e8a6-4344-b594-c8b5fe0ff37e"
+Parent: "a3e5e09f-1422-4050-9414-dc959aa60d7b"
+Template: "5f2c442f-2554-4c80-b1d9-2195fa6168b1"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{5A7CF08C-3647-4F56-B189-9E8C0531FBAF}">
+        <r
+          id="{DAFAFFB8-74AF-4141-A96A-70B16834CEC6}"
+          par="IsLicenceCheckDisabled&amp;PageCodeScriptFileName=%2Fsitecore%2Fshell%2Fclient%2FApplications%2FFormsBuilder%2FLayouts%2FActions%2FAddToAutomationPlan.js&amp;PageCodeTypeName&amp;SpeakCoreVersion=%7B3F937240-C16E-4229-9641-4CE5B4CB4ABA%7D&amp;AssetsLoadingType"
+          ph="Page.Code"
+          uid="{F294A2D9-6B3F-471E-B1EE-FFB3F6B07B57}" />
+        <r
+          id="{B5EA9A34-E232-452E-85DE-49C1CB5FCAF8}"
+          par="DynamicData&amp;ServiceUrl&amp;QueryParameters&amp;Messages&amp;HasData&amp;HasNoData&amp;IsBusy&amp;IsLoadDataDeferred&amp;ConfigurationItem&amp;ServerSorting&amp;ListSorting&amp;TotalRecordCount&amp;HasMoreData&amp;Id=AutomationPlanDataSource&amp;Behaviors&amp;PageSize&amp;Paging&amp;PageIndex"
+          ph="Page.Body"
+          uid="{18413795-2538-4810-8399-517D66554872}" />
+        <r
+          id="{EFCD0AB0-5B9D-4F1D-AB81-BE0336CD273C}"
+          par="Tooltip&amp;IsVisible&amp;StaticData&amp;AccessKey&amp;ConfigurationItem&amp;Id=HeaderTitle&amp;Behaviors&amp;DisplayFieldName&amp;TextSize&amp;TextWeight&amp;TextStyle&amp;Text"
+          ph="Page.Body"
+          uid="{4C018066-4766-4125-BF74-7B26A1CC55A5}" />
+        <r
+          id="{EFCD0AB0-5B9D-4F1D-AB81-BE0336CD273C}"
+          par="IsVisible=0&amp;Id=HeaderSubtitle"
+          ph="Page.Body"
+          uid="{F90C9D8C-D65A-4CAF-A995-9D68D799B225}" />
+        <r
+          id="{EFCD0AB0-5B9D-4F1D-AB81-BE0336CD273C}"
+          par="IsVisible=0&amp;Id=ValueNotInListText"
+          ph="Page.Body"
+          uid="{184F02A5-7345-456E-9392-7F588019C181}" />
+        <r
+          id="{EFCD0AB0-5B9D-4F1D-AB81-BE0336CD273C}"
+          par="IsVisible=0&amp;Id=TokensNotification"
+          ph="Page.Body"
+          uid="{DD29B4BC-26C5-4517-B8BC-D205A9A7E51C}" />
+        <r
+          id="{EFCD0AB0-5B9D-4F1D-AB81-BE0336CD273C}"
+          par="IsVisible=0&amp;Id=GenericErrorMessage"
+          ph="Page.Body"
+          uid="{8C58D539-F8A8-4ADB-9983-F2C03AE2D75D}" />
+        <r
+          id="{EFCD0AB0-5B9D-4F1D-AB81-BE0336CD273C}"
+          par="IsVisible=0&amp;Id=UnauthorizedErrorMessage"
+          ph="Page.Body"
+          uid="{0328FC49-1928-4EE6-BD84-DEA5606C1781}" />
+        <r
+          id="{EFCD0AB0-5B9D-4F1D-AB81-BE0336CD273C}"
+          par="IsVisible=0&amp;Id=MissingFormIdMessage"
+          ph="Page.Body"
+          uid="{1EF88AE8-E7C7-46E7-A003-7C617261556C}" />
+        <r
+          id="{8C3B1C75-9DBA-49BC-AC49-CD9AD5559FD6}"
+          par="Id=MessageBar"
+          ph="Page.Body"
+          uid="{D867DD24-31AF-466C-9DF1-561DF5292054}" />
+        <r
+          id="{08994B8F-7BF1-4963-815D-0FA8D75B3D86}"
+          par="PaddingType=All&amp;UsePadding=1&amp;Id=MainBorder"
+          ph="Page.Body"
+          uid="{086ABD92-71D1-4071-B538-8371D53E572D}" />
+        <r
+          id="{59E2A66D-11D2-488D-A3BC-6C1C81326645}"
+          par="Tooltip&amp;IsVisible=1&amp;FormData&amp;BindingTarget&amp;AccessKey&amp;ConfigurationItem=%7B055674C7-8E69-4A1E-BCB8-B9DC80D3C197%7D&amp;Id=Form&amp;FieldDefinitionType=%7B167CCD4C-34CE-4557-985B-0915D86B3D99%7D&amp;FieldDefinitionRoot&amp;FieldSections&amp;FieldDefinitionDatabase&amp;ExcludedFields&amp;Behaviors&amp;FieldsLayout=%7B0F6F5EFF-73B4-4597-A232-F50DF253514E%7D&amp;SectionVisualization&amp;VisualStyle"
+          ph="MainBorder.Content"
+          uid="{88471C48-E354-4EBC-B128-E88C2E17EC1C}" />
+        <r
+          id="{08994B8F-7BF1-4963-815D-0FA8D75B3D86}"
+          par="PaddingType=LeftBottom&amp;UsePadding=1&amp;Id=AddTokensBorder"
+          ph="MainBorder.Content"
+          uid="{EE408C39-CCDE-4A93-A32F-FEB3171009A1}" />
+        <r
+          id="{EFCD0AB0-5B9D-4F1D-AB81-BE0336CD273C}"
+          par="TextWeight=700+Bold&amp;Id=AddTokensTitle"
+          ph="AddTokensBorder.Content"
+          uid="{D85046C2-93F1-4E39-8A14-665235F5D984}" />
+        <r
+          id="{CC079A1A-44CE-4AF3-9E2D-70F7193885EF}"
+          par="Tooltip&amp;IsVisible=1&amp;AddButtonText=Add%20token&amp;TokenNameLabel=Token%20name&amp;TokenNamePlaceholder=Specify%20token%20name&amp;TokenValueLabel=Form%20field&amp;TokenValuePlaceholder=Specify%20the%20form%20field...&amp;AccessKey&amp;ConfigurationItem&amp;Id=CustomTokensForm&amp;Behaviors"
+          ph="MainBorder.Content"
+          uid="{FF5DBD3D-B404-46A4-928C-697907DFDD79}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "7205a57f-93b4-413a-aa9a-6b16bbc59565"
+      Hint: BrowserTitle
+      Value: Add contact to automation plan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41cd0d2e-5872-40fb-ae1e-84adafb6293c"

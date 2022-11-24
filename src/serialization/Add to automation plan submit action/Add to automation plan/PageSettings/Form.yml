@@ -1,0 +1,13 @@
+﻿---
+ID: "055674c7-8e69-4a1e-bcb8-b9dc80d3c197"
+Parent: "3477e7ff-9b47-4ebd-b712-59197f93b3d4"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/Form
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62b895d8-4af7-43ec-adfc-7690772c1199"

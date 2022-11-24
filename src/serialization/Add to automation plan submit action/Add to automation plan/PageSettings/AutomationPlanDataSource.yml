@@ -1,0 +1,17 @@
+﻿---
+ID: "e9b270ee-5250-4806-9ce5-f922b28fa636"
+Parent: "3477e7ff-9b47-4ebd-b712-59197f93b3d4"
+Template: "22255d1f-f5a1-44c7-ba38-ee01dd89e156"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/AutomationPlanDataSource
+SharedFields:
+- ID: "b86009eb-c167-46c2-b715-25f7d6859de0"
+  Hint: ServiceUrl
+  Value: "/sitecore/api/ma/plans/?isActive=true&cultureName=nl-NL&sc_site=shell"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da67132c-31fa-4f35-801b-70416641e400"

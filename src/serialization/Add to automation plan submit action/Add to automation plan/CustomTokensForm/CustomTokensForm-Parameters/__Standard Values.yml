@@ -1,0 +1,28 @@
+﻿---
+ID: "e1b4eb99-47d2-4a89-a70e-fbacfa4ee81c"
+Parent: "5a43a27f-0ddd-4def-b633-4757619a66bd"
+Template: "5a43a27f-0ddd-4def-b633-4757619a66bd"
+Path: "/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/CustomTokensForm/CustomTokensForm-Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02c237ff-eb62-45f6-8a92-5bc1f318e3d4"
+      Hint: AddButtonText
+      Value: Add token
+    - ID: "62e96cce-f524-4abc-8150-ad93408aad0f"
+      Hint: TokenNameLabel
+      Value: Token name
+    - ID: "657b5e61-c323-4979-bb13-b15459ad6d34"
+      Hint: TokenValueLabel
+      Value: Form field
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f225bbf-b356-4924-895f-094eabff5428"
+    - ID: "cfc3aad9-1712-4626-9688-7d5614cde087"
+      Hint: TokenNamePlaceholder
+      Value: Specify token name
+    - ID: "f5be6675-2ea5-42d7-a3a0-82b05945fadf"
+      Hint: TokenValuePlaceholder
+      Value: Specify the form field...

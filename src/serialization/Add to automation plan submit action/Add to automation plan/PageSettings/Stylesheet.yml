@@ -1,0 +1,20 @@
+﻿---
+ID: "0fd1b8b8-7365-4b1e-9115-43999b03aa00"
+Parent: "3477e7ff-9b47-4ebd-b712-59197f93b3d4"
+Template: "27c78269-cef0-483f-9e7a-af27ed04ce5d"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan/PageSettings/Stylesheet
+SharedFields:
+- ID: "834b2406-24a9-4376-9350-cbe6da96c51a"
+  Hint: Stylesheet
+  Value: /sitecore/shell/client/Applications/FormsBuilder/Layouts/Actions/SendEmailCampaignMessage.css
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf71db06-d872-48f1-b3cb-67d7d42469d3"

@@ -1,0 +1,20 @@
+{
+  "namespace": "MW.Feature.MarketingAutomation.Forms",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "Submit Action Add to automation plan",
+        "path": "/sitecore/system/Settings/Forms/Submit Actions/Add to automation plan",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "core",
+        "name": "Add to automation plan submit action",
+        "path": "/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/Add to automation plan",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}
